@@ -3,9 +3,6 @@
   <img src="https://miro.medium.com/max/832/1*uPL1uCtLBRSk6akPL2hNzg.jpeg" width="300" height="300">
 </p>
 
-
-> Files for the YouTube crash course
-
 - Setup & Install / Simple Server
 - Simple API
 - Routes, Request & Response
